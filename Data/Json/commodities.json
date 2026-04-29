@@ -1,0 +1,30 @@
+[
+    {
+        "commodityId": 1,
+        "commodityName": "Vetemjöl"
+    },
+    {
+        "commodityId": 2,
+        "commodityName": "Rågmjöl"
+    },
+    {
+        "commodityId": 3,
+        "commodityName": "Smör"
+    },
+    {
+        "commodityId": 4,
+        "commodityName": "Mjölk"
+    },
+    {
+        "commodityId": 5,
+        "commodityName": "Ägg"
+    },
+    {
+        "commodityId": 6,
+        "commodityName": "Jäst"
+    },
+    {
+        "commodityId": 7,
+        "commodityName": "Socker"
+    }
+]

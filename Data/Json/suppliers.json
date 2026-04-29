@@ -1,0 +1,29 @@
+[
+    {
+        "supplierId": 1,
+        "supplierName": "Mjölkompaniet",
+        "email": "mjolkompaniet@gmail.com",
+        "phone": "040-892541",
+        "address": "Storgatan 22",
+        "postalCode": "24453",
+        "city": "Malmö"
+    },
+    {
+        "supplierId": 2,
+        "supplierName": "Trelleborgs råvaror och mejeri",
+        "email": "trellehulla@gmail.com",
+        "phone": "0410-335672",
+        "address": "Sydkustvägen 1",
+        "postalCode": "23332",
+        "city": "Trelleborg"
+    },
+    {
+        "supplierId": 3,
+        "supplierName": "Lantmännen",
+        "email": "info@lantis.com",
+        "phone": "040-778562",
+        "address": "Lantgatan 101",
+        "postalCode": "24592",
+        "city": "Göteborg"
+    }
+]

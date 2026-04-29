@@ -1,0 +1,26 @@
+[
+    {
+        "supplierContactId": 1,
+        "firstName": "Anders",
+        "lastName": "Andersson",
+        "phone": "0709456735",
+        "email": "anders.mjolkompaniet@gmail.com",
+        "supplierId": 1
+    },
+    {
+        "supplierContactId": 2,
+        "firstName": "Gert",
+        "lastName": "Sjärtsson",
+        "phone": "0709117254",
+        "email": "trellehulla.gert@gmail.com",
+        "supplierId": 2
+    },
+    {
+        "supplierContactId": 3,
+        "firstName": "Sven",
+        "lastName": "Pålsson",
+        "phone": "0706557854",
+        "email": "sven@lantis.com",
+        "supplierId": 3
+    }
+]

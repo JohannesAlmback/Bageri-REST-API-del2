@@ -1,0 +1,149 @@
+[
+    {
+        "supplierId": 1,
+        "commodityId": 1,
+        "itemNumber": "AB-9036",
+        "pricePerKilo": 7.9,
+        "description": "Prima vetemjöl från skåne."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 2,
+        "itemNumber": "NB-7562",
+        "pricePerKilo": 10.8,
+        "description": "Finmalet rågmjöl från danmark."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 3,
+        "itemNumber": "UY-5432",
+        "pricePerKilo": 45,
+        "description": "Standard smör från våra skånska gårdar."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 4,
+        "itemNumber": "LL-7155",
+        "pricePerKilo": 7,
+        "description": "Bra mjölk, inget att snacka om."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 5,
+        "itemNumber": "HY-6621",
+        "pricePerKilo": 25.6,
+        "description": "Ägg från skånska gårdar, frigående utomhus."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 6,
+        "itemNumber": "HL-7788",
+        "pricePerKilo": 20,
+        "description": "Jäst, superbra."
+    },
+    {
+        "supplierId": 1,
+        "commodityId": 7,
+        "itemNumber": "HG-7854",
+        "pricePerKilo": 7.5,
+        "description": "Standard socker från våra skånska gårdar."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 1,
+        "itemNumber": "HY-5554",
+        "pricePerKilo": 6.9,
+        "description": "Standard mjöl från Trelleborg."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 2,
+        "itemNumber": "HA-9956",
+        "pricePerKilo": 10.4,
+        "description": "Rågmjöl av ganska låg kvalitet."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 3,
+        "itemNumber": "AD-7112",
+        "pricePerKilo": 51.3,
+        "description": "Finaste smöret gjort på komjölk."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 4,
+        "itemNumber": "KL-4422",
+        "pricePerKilo": 5.5,
+        "description": "Vanlig tråkig standardmjölk, 6.5 procent."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 5,
+        "itemNumber": "LO-9922",
+        "pricePerKilo": 23,
+        "description": "Ägg från frigående på taket."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 6,
+        "itemNumber": "MM-8233",
+        "pricePerKilo": 22.2,
+        "description": "Jäst som jäser."
+    },
+    {
+        "supplierId": 2,
+        "commodityId": 7,
+        "itemNumber": "YS-2542",
+        "pricePerKilo": 6.9,
+        "description": "Socker från Trelleborgs gästis."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 1,
+        "itemNumber": "JI-5622",
+        "pricePerKilo": 8.2,
+        "description": "Mjöl av vete."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 2,
+        "itemNumber": "LK-9925",
+        "pricePerKilo": 14,
+        "description": "Rågmjöl från landet."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 3,
+        "itemNumber": "PO-8922",
+        "pricePerKilo": 57,
+        "description": "Smörigt smör."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 4,
+        "itemNumber": "HY-8462",
+        "pricePerKilo": 6.9,
+        "description": "Standard mjölk. Ganska tråkig."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 5,
+        "itemNumber": "RT-7901",
+        "pricePerKilo": 29.9,
+        "description": "Ägg från gårdar i spanien."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 6,
+        "itemNumber": "GH-2171",
+        "pricePerKilo": 25.1,
+        "description": "Jäst från gästis i Anderslöv."
+    },
+    {
+        "supplierId": 3,
+        "commodityId": 7,
+        "itemNumber": "HH-7790",
+        "pricePerKilo": 8.9,
+        "description": "Socker med hög sockerhalt."
+    }
+]
