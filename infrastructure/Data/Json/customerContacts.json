@@ -1,0 +1,26 @@
+[
+    {
+        "customerContactId": 1,
+        "customerId": 1,
+        "firstName": "Rolf",
+        "lastName": "Eriksson",
+        "phone": "0798552614",
+        "email": "roffe@mail.com"
+    },
+    {
+        "customerContactId": 2,
+        "customerId": 2,
+        "firstName": "Anna",
+        "lastName": "Göransson",
+        "phone": "0708772561",
+        "email": "panna@mail.com"
+    },
+    {
+        "customerContactId": 3,
+        "customerId": 3,
+        "firstName": "Gregor",
+        "lastName": "Jonsson",
+        "phone": "0704678354",
+        "email": "gregge@mail.com"
+    }
+]

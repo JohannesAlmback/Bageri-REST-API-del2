@@ -1,0 +1,29 @@
+[
+    {
+        "productId": 1,
+        "productName": "Vetebullar",
+        "pricePerUnit": 15.2,
+        "productWeight": 50,
+        "quantityPerPack": 6,
+        "bestBefore": "2026-05-15",
+        "bakedDate": "2026-05-08"
+    },
+    {
+        "productId": 2,
+        "productName": "Chockladbullar",
+        "pricePerUnit": 25,
+        "productWeight": 150,
+        "quantityPerPack": 12,
+        "bestBefore": "2026-05-20",
+        "bakedDate": "2026-05-08"
+    },
+    {
+        "productId": 3,
+        "productName": "Torra skorpor",
+        "pricePerUnit": 8.9,
+        "productWeight": 40,
+        "quantityPerPack": 16,
+        "bestBefore": "2026-12-10",
+        "bakedDate": "2026-05-08"
+    }
+]

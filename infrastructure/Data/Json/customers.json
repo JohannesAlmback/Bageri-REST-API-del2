@@ -1,0 +1,38 @@
+[
+    {
+        "customerId": 1,
+        "customerName": "ICA",
+        "phone": "0709627914",
+        "email": "ica@mail.com",
+        "deliveryAddress": "Storgatan 2",
+        "deliveryPotalCode": "24572",
+        "deliveryCity": "Helsingborg",
+        "invoiceAddress": "Storgatan 11",
+        "invoicePostalCode": "24572",
+        "invoiceCity": "Helsingborg"
+    },
+    {
+        "customerId": 2,
+        "customerName": "Coop",
+        "phone": "0703778254",
+        "email": "coop@mail.com",
+        "deliveryAddress": "Lillgatan 6",
+        "deliveryPotalCode": "23321",
+        "deliveryCity": "Trelleborg",
+        "invoiceAddress": "Lillgatan 11",
+        "invoicePostalCode": "23321",
+        "invoiceCity": "Trelleborg"
+    },
+    {
+        "customerId": 3,
+        "customerName": "Hemköp",
+        "phone": "0707228514",
+        "email": "hemkop@mail.com",
+        "deliveryAddress": "Gatan 11",
+        "deliveryPotalCode": "27787",
+        "deliveryCity": "Kivik",
+        "invoiceAddress": "Gatan 11",
+        "invoicePostalCode": "27787",
+        "invoiceCity": "Kivik"
+    }
+]
